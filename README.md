@@ -43,7 +43,7 @@ The dashboard provides insights into sales performance using Pivot Tables, Pivot
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here.)
+![Dashboard](Dashboard.png)
 
 ---
 
