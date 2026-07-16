@@ -1,34 +1,22 @@
-# 📊 Sales Performance Dashboard (Excel)
+# 📊 Excel Sales Performance Dashboard
+
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
 
 ## Project Overview
 
-This project is an interactive Sales Performance Dashboard built in Microsoft Excel.
+An interactive Sales Performance Dashboard built in Microsoft Excel using Pivot Tables, Pivot Charts, KPI Cards, and Slicers.
 
-The dashboard provides insights into sales performance using Pivot Tables, Pivot Charts, KPI Cards and Slicers.
+## Features
 
----
-
-## Dashboard Features
-
-✅ Dynamic KPI Cards
-
-✅ Interactive Slicers
-
-- Year
-- Region
-- Category
-
-✅ Sales by Category
-
-✅ Sales by Region
-
-✅ Sales by Segment
-
-✅ Monthly Sales Trend
-
-✅ Top 10 Products
-
----
+- Dynamic KPI Cards
+- Interactive Slicers
+- Sales by Category
+- Sales by Region
+- Sales by Segment
+- Monthly Sales Trend
+- Top 10 Products
 
 ## Tools Used
 
@@ -37,20 +25,8 @@ The dashboard provides insights into sales performance using Pivot Tables, Pivot
 - Pivot Charts
 - Slicers
 - Excel Formulas
-- Dashboard Design
 
----
+## Files
 
-## Dashboard Preview
-
-![Dashboard](Dashboard.png)
-
----
-
-## Skills Demonstrated
-
-- Data Analysis
-- Dashboard Design
-- Data Visualization
-- Business Intelligence
-- Excel Reporting
+- Sales_Performance_Dashboard.xlsx
+- Dashboard.png
